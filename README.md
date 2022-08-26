@@ -1,2 +1,2 @@
 My first readme
-Learning how ro code is really cool
+Learning how to code is really cool
